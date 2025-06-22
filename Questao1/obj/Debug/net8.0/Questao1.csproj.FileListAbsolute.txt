@@ -1,0 +1,14 @@
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\bin\Debug\net8.0\Questao1.exe
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\bin\Debug\net8.0\Questao1.deps.json
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\bin\Debug\net8.0\Questao1.runtimeconfig.json
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\bin\Debug\net8.0\Questao1.dll
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\bin\Debug\net8.0\Questao1.pdb
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.AssemblyInfo.cs
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.dll
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\refint\Questao1.dll
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.pdb
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\Questao1.genruntimeconfig.cache
+C:\Users\Bruno\Downloads\Teste de C# da Ailos\Questao1\obj\Debug\net8.0\ref\Questao1.dll
